@@ -5,6 +5,6 @@
 
 [![Banner Principal](https://git.eppr.link/assets/animated-head-banner.gif)](https://MCSuarez-Mason.github.io)
 <h1 align="center" > 
-En el mar la vida es mas sabrosa
+Corro aunque no soy Corredora
 </h1>
   
